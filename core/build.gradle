@@ -1,4 +1,5 @@
 import java.text.SimpleDateFormat
+apply plugin: 'java-library'
 
 description 'web3j is a lightweight Java library for integration with Ethereum clients'
 

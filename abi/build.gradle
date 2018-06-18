@@ -1,3 +1,4 @@
+apply plugin: 'java-library'
 
 description 'Ethereum Application Binary Interface (ABI) for working with smart contracts'
 

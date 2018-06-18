@@ -1,3 +1,4 @@
+apply plugin: 'java-library'
 
 description 'Ethereum Recursive Length Prefix (RLP) encoding for serializing objects'
 

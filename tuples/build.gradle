@@ -1,2 +1,2 @@
-
+apply plugin: 'java-library'
 description 'Simple Java tuples library'

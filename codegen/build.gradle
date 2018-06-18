@@ -1,3 +1,4 @@
+apply plugin: 'java-library'
 
 description 'web3j project code generators'
 

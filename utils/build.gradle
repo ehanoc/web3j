@@ -1,3 +1,4 @@
+apply plugin: 'java-library'
 
 description 'Minimal set of web3j utility classes'
 
